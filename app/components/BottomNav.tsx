@@ -9,7 +9,7 @@ export function BottomNav() {
         backgroundColor: "#eee",
       }}
     >
-      <a href="/home">Home</a> | <a href="/profile">Profile</a>
+      <a href="/profile/posts/grid">Home</a> | <a href="/profile">Profile</a>
     </nav>
   );
 }
